@@ -24,7 +24,10 @@ namespace forces
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            double F = Convert.ToDouble(textBox1.Text);
+            double A= 
+            double Fx =F * cos(A)
+            double Fy=
         }
     }
 }
